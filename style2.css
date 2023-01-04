@@ -1,0 +1,83 @@
+body{
+    background-color: #f9f2ec;
+}
+
+.tak{
+    text-indent: 50px;
+}
+
+.tak2{
+    text-indent: 20px;
+}
+
+.nie{
+    font-family: Cambria;
+    font-size: 12px;
+    background-color: white;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-decoration: underline;
+}
+
+.nie2{
+    font-family: Jokerman;
+    font-size: 20px;
+    background-color: white;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-decoration: underline;
+}
+
+.p1{
+    font-family: Algerian;
+    font-size: 40px;
+    padding: 5px;
+    margin: 5px;
+    background-color: yellow;
+    border: solid 2px red;
+    color: red;
+}
+
+
+.p2{
+    font-family: Algerian;
+    font-size: 40px;
+    padding: 5px;
+    margin: 5px;
+    background-color: yellow;
+    border: solid 2px red;
+    color: red;
+}
+
+
+.p3{
+    font-family: Algerian;
+    font-size: 40px;
+    padding: 5px;
+    margin: 5px;
+    background-color: yellow;
+    border: solid 2px red;
+    color: red;
+}
+
+
+.p4{
+    font-family: Curlz MT;
+    font-size: 60px;
+    padding: 5px;
+    margin: 5px;
+    background-color: yellow;
+    border: solid 1px red;
+    color: black;
+}
+
+
+.p5{
+    font-family: Curlz MT;
+    font-size: 60px;
+    padding: 5px;
+    margin: 5px;
+    background-color: yellow;
+    border: solid 1px red;
+    color: black;
+}
